@@ -1,1 +1,1 @@
-# javaexpress-config-latest
+# javaexpress-config
