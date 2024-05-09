@@ -1,11 +1,11 @@
 build:
-  version: "3.0"
+  version: "3.0.0"
 
 accounts:
-  message: "Welcome to JavaExpress accounts related docker APIs "
+  message: "Welcome to JavaExpress accounts related apis"
   contactDetails:
-    name: "John Doe - Developer"
-    email: "john@eazybank.com"
+    name: "Neeraj - Developer"
+    email: "neeraj@javaexpress.com"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
