@@ -4,8 +4,8 @@ build:
 cards:
   message: "Hey, welcome to JavaExpress cards related prod APIs"
   contactDetails:
-    name: "Sandra Harald - Product Owner"
-    email: "sandra@javaexpress.com"
+    name: "Sunny Harald - Product Owner"
+    email: "sunny@javaexpress.com"
   onCallSupport:
     - (617) 432-2356
     - (936) 564-8721
